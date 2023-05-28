@@ -20,9 +20,9 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ## Project
-- EN -> A small application for adding, editing and deleting tasks, similar to project management applications used in large projects. 
+- EN -> It is a small application where tasks can be added, edited and deleted like project management applications used in large projects. The [json-server](https://www.npmjs.com/package/json-server) was used because the tasks were lost when the page was refreshed. Then, the props distributions that were mixed in the whole project were organized with the [context-api](https://legacy.reactjs.org/docs/context.html) method. 
 
-- TR -> Büyük projelerde kullanılan proje yönetimi uygulamarı gibi görev ekleme, düzenleme ve silme işlemlerinin olduğu küçük bir uygulama. 
+- TR -> Büyük projelerde kullanılan proje yönetimi uygulamaları gibi görev ekleme, düzenleme ve silme işlemlerinin olduğu küçük bir uygulamadır. Sayfa yenileme işlemi yapıldığında görevlerin kaybolmasından dolayı [json-server](https://www.npmjs.com/package/json-server) kullanılmıştır. Ardından bütün proje içerisinde karışık olan props dağılımları [context-api](https://legacy.reactjs.org/docs/context.html) yöntemi ile düzenlenmiştir. 
 
 ## Learn More
 
